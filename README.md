@@ -1,4 +1,5 @@
 # Digits-Recognition-using-KNN
+#libraries used are numpy,matpotlib,sklearn and dataset MNIST.
 MNIST Handwritten Digits Recognition using KNN 
 K-Nearest Neighbours can be used for both classification and regression. 
 K-NN is a simple algorithm that stores all available cases and classifies new cases based on a similarity measure.
